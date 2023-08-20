@@ -6,7 +6,7 @@ Python / JavaScript / jQuery / Vue.js
 Cyber Security  
  
 <a href="https://www.credly.com/badges/2c9a9496-8ba3-4075-aef4-d0e0dc6ae2f8/public_url">
-<img src="https://images.credly.com/images/5e6f5247-1d61-4932-a5da-999a7feec067/isc2_cissp2.png" class="badge-img" style="height: 88px; width: 88px;">
+<img src="https://images.credly.com/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" class="badge-img" style="height: 88px; width: 88px;">
 </a>
 
 
